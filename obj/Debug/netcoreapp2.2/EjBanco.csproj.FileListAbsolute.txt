@@ -1,0 +1,11 @@
+C:\Users\User\Lagash\EjBanco\bin\Debug\netcoreapp2.2\EjBanco.deps.json
+C:\Users\User\Lagash\EjBanco\bin\Debug\netcoreapp2.2\EjBanco.runtimeconfig.json
+C:\Users\User\Lagash\EjBanco\bin\Debug\netcoreapp2.2\EjBanco.runtimeconfig.dev.json
+c:\Users\User\Lagash\EjBanco\bin\Debug\netcoreapp2.2\EjBanco.dll
+c:\Users\User\Lagash\EjBanco\bin\Debug\netcoreapp2.2\EjBanco.pdb
+c:\Users\User\Lagash\EjBanco\obj\Debug\netcoreapp2.2\EjBanco.csprojAssemblyReference.cache
+c:\Users\User\Lagash\EjBanco\obj\Debug\netcoreapp2.2\EjBanco.csproj.CoreCompileInputs.cache
+c:\Users\User\Lagash\EjBanco\obj\Debug\netcoreapp2.2\EjBanco.AssemblyInfoInputs.cache
+c:\Users\User\Lagash\EjBanco\obj\Debug\netcoreapp2.2\EjBanco.AssemblyInfo.cs
+c:\Users\User\Lagash\EjBanco\obj\Debug\netcoreapp2.2\EjBanco.dll
+c:\Users\User\Lagash\EjBanco\obj\Debug\netcoreapp2.2\EjBanco.pdb
